@@ -1,2 +1,2 @@
 # Portfólio
- Resumo dos projetos que tenho desenvolvido!
+ Resumo dos projetos que tenho desenvolvido
